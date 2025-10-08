@@ -21,6 +21,7 @@
 *.overrideController text merge=unityyaml
 *.mask    text merge=unityyaml
 *.physicMaterial text merge=unityyaml
+*.dll.mvfrm binary
 
 # Image files (binary, don’t diff)
 *.png   binary
