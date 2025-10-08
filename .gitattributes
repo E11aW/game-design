@@ -1,0 +1,47 @@
+
+# Enforce consistent line endings
+* text=auto eol=lf
+
+# Unity-specific file handling
+*.cs     text diff=csharp
+*.shader text
+*.cginc  text
+*.hlsl   text
+*.compute text
+*.glsl   text
+
+# YAML (Unity scene, prefab, etc.)
+*.unity   text merge=unityyaml
+*.prefab  text merge=unityyaml
+*.asset   text merge=unityyaml
+*.meta    text merge=unityyaml
+*.anim    text merge=unityyaml
+*.controller text merge=unityyaml
+*.mat     text merge=unityyaml
+*.overrideController text merge=unityyaml
+*.mask    text merge=unityyaml
+*.physicMaterial text merge=unityyaml
+
+# Image files (binary, don’t diff)
+*.png   binary
+*.jpg   binary
+*.jpeg  binary
+*.tga   binary
+*.gif   binary
+*.psd   binary
+*.exr   binary
+
+# 3D model files (binary, don’t diff)
+*.fbx   binary
+*.blend binary
+*.obj   binary
+
+# Audio files (binary, don’t diff)
+*.mp3   binary
+*.ogg   binary
+*.wav   binary
+
+# Video files (binary, don’t diff)
+*.mp4   binary
+*.mov   binary
+*.avi   binary
