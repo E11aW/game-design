@@ -9,3 +9,4 @@ The main objective is to explore the dungeon: defeating enemies and progressing 
 ### Mechanics
 The player navigates the dungeon, interacting with enemies or chests to open up sub-screens. Chests give players armor, weapons, and items. Combat will be turn-based, allowing users to think through their actions on whether they want to attack, run, or use an item. Defeating enemies gives the player experience they can use to level up and gain new skills, and advance to the next floor of the dungeon. Every 5 or so floors there will be special boss levels to overcome.
 ## Mock-Ups
+<img width="2302" height="1317" alt="Simple Screen Mockups" src="https://github.com/user-attachments/assets/9ab83224-4bb7-4e8f-b9f1-b79305f3ca33" />
