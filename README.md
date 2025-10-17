@@ -1,1 +1,11 @@
-Repository storing work for my game design class.
+# Project Proposal
+
+## Elevator Pitch
+
+## Game Synopsis
+
+### Objective
+
+### Mechanics
+
+## Mock-Ups
